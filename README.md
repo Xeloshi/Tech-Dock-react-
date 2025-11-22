@@ -44,6 +44,8 @@ yarn
 ## Установка Tailwind CSS
 ```bash 
 npm install -D tailwindcss postcss autoprefixer
+```
+```bash 
 npx tailwindcss init
 ```
 
