@@ -27,14 +27,19 @@ React - библиотека для построения пользовател�
 
 *Node.js (версия 14 или выше)*
 
-``` bash npm ```
+```bash
+npm 
+```
 или
-```bash yarn ```
+```bash 
+yarn
+```
 
 ## Установка зависимостей:
 Установка React
 ```bash
-npm install react react-dom ```
+ npm install react react-dom
+```
 
 *Установка Tailwind CSS
 npm install -D tailwindcss postcss autoprefixer
