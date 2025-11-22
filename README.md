@@ -71,7 +71,7 @@ npm run dev
 npm run build
 ```
 
-*Просмотр собранной версии
+*Просмотр собранной версии*
 ```bash 
-npm run preview*
+npm run preview
 ```
