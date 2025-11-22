@@ -44,7 +44,7 @@ yarn
 ## Установка Tailwind CSS
 ```bash 
 npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p*
+npx tailwindcss init
 ```
 
 ## Установка Vite
