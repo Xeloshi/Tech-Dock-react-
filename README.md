@@ -29,12 +29,12 @@ React - библиотека для построения пользовател�
 
 ``` bash npm ```
 или
-``` bash yarn ```
+```bash yarn ```
 
 ## Установка зависимостей:
-*bash
 Установка React
-npm install react react-dom*
+```bash
+npm install react react-dom ```
 
 *Установка Tailwind CSS
 npm install -D tailwindcss postcss autoprefixer
