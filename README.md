@@ -41,25 +41,37 @@ yarn
  npm install react react-dom
 ```
 
-*Установка Tailwind CSS
+## Установка Tailwind CSS
+```bash 
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p*
+```
 
-*Установка Vite
-npm install -D vite @vitejs/plugin-react*
+## Установка Vite
+```bash 
+npm install -D vite @vitejs/plugin-react
+```
 
 ## Установка React Router
-*npm install react-router-dom
-Запуск проекта
-bash*
+```bash 
+npm install react-router-dom
+```
 ## Установка всех зависимостей
-*npm install*
+```bash 
+npm install
+```
 
-*Запуск в режиме разработки
-npm run dev*
+*Запуск в режиме разработки*
+```bash 
+npm run dev
+```
 
-*Сборка для production
-npm run build*
+*Сборка для production*
+```bash 
+npm run build
+```
 
 *Просмотр собранной версии
+```bash 
 npm run preview*
+```
